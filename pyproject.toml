@@ -8,6 +8,7 @@ dependencies = [
     "langchain>=0.3.27",
     "langchain-ollama>=0.3.6",
     "langgraph>=0.6.0",
+    "mermaid-py>=0.8.0",
     "notebook>=7.4.4",
     "python-dotenv>=1.1.1",
 ]
